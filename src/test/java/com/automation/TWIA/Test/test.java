@@ -19,6 +19,7 @@ import org.testng.annotations.Test;
 
 public class test extends TestBase{
 
+	//ADDED COMMENT
 	public static final Logger log= Logger.getLogger(test.class.getName());
 	
 	homePage homePageobj;
