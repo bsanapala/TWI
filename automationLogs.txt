@@ -1,0 +1,8 @@
+14-06-2018 17:19:44 INFO  TestBase:33  Started Browser..
+14-06-2018 17:19:48 INFO  TestBase:37  triggered url in browser..
+14-06-2018 17:19:48 INFO  test:33  Browser launched
+14-06-2018 17:19:49 INFO  TestBase:70  Test data sheet loaded successfully ..
+14-06-2018 17:19:49 INFO  commonUtils:156  Testcase: TC4
+14-06-2018 17:19:49 INFO  commonUtils:157  TestCaseID match found
+14-06-2018 17:19:49 INFO  commonUtils:47  Mouse overed to the element [[FirefoxDriver: firefox on MAC (7fd777e5-f2dc-0244-b5a3-3ea38948af45)] -> xpath: //span[text()='Hello. Sign in']]
+14-06-2018 17:19:50 INFO  commonUtils:51  Clicked on Target element[[FirefoxDriver: firefox on MAC (7fd777e5-f2dc-0244-b5a3-3ea38948af45)] -> xpath: //span[text()='Sign in']]
